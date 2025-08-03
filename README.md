@@ -1,1 +1,9 @@
-# Fortune-Agro-Supermarket-Billing-System
+<img width="1152" height="864" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/50f9bff1-7611-4c66-9c5e-b3fbbd2a9708" />
+<img width="1152" height="864" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/bbce32ce-f85a-466e-9670-834dd020aff1" />
+<img width="1152" height="864" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/971ba777-fa2f-44b3-85bb-c0a7801fed11" />
+<img width="1152" height="864" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/bbba80c8-7882-4a90-ac7f-30d086cf72cb" />
+<img width="1152" height="864" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/7bea5ad7-c569-4872-9694-3d25f0ac5689" />
+<img width="1152" height="864" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/4df0896f-d21c-4b49-af01-80ccd374fd79" />
+<img width="1152" height="864" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/8a12eafb-12c9-422c-9e28-790d960f3469" />
+<img width="1152" height="864" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/5ec9283d-fe84-4cc6-b6d5-19b2953f11fe" />
+<img width="1152" height="864" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/be9e2f67-4d0d-4d62-abc6-d86e923d23a8" />
